@@ -1,0 +1,30 @@
+# Maven specific
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.branch
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE specific
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+test/
